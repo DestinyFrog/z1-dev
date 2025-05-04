@@ -1,0 +1,21 @@
+@name ácido fosfórico
+
+@tag ácido
+@tag oxiácido
+@tag inorgânico
+
+@p tetraedrica 1,2,3,4
+P 1 2 3 4
+O 1
+O 2 5
+O 3 6
+O 4 7
+
+1 =
+
+H 5
+H 6
+H 7
+5 0° [240° 0°]
+6 0° [60° 90°]
+7 180° [60° 270°]

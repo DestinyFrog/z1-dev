@@ -1,0 +1,9 @@
+@name metano
+@tag orgânico
+
+@p tetraedrica 1,2,3,4
+C 1 2 3 4
+H 1
+H 2
+H 3
+H 4

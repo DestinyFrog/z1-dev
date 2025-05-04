@@ -1,0 +1,14 @@
+@name bicarbonato de sódio
+@tag inorgânico
+@p trigonal_plana 1,2,3
+C 1 2 3
+O 1
+1 =
+O 2 4
+O 3 5
+
+4 [60° 90°]
+H 4
+
+5 i; [60° 270°]
+Na 5

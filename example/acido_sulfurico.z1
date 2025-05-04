@@ -1,0 +1,20 @@
+@name ácido sulfúrico
+
+@tag ácido
+@tag oxiácido
+@tag inorgânico
+
+@p tetraedrica 1,2,3,4
+S 1 2 3 4
+O 1
+O 2
+O 3 5
+O 4 6
+
+1 =
+2 =
+
+H 5
+H 6
+5 330°
+6 210°

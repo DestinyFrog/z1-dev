@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #222;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#app {
+    width: 80%;
+    height: 80%;
+}
+
+#svg-app {
+    position: fixed;
+    top: 20px;
+    right: 20px;    
+}
+
+#svg-app * {
+    border-radius: 6px;
+    background-color: white;
+}
